@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Created-By: Grigor Iliev
+JS-Views: sampler-cs
+JS-Default-View: sampler-cs
+
+Name: sampler-cs
+View-Name: Sampler CS
+View-Config: org.jsampler.android.view.classic.ViewConfig
+Main-Frame: org.jsampler.android.view.classic.MainFrame
+Progress-Indicator: org.jsampler.android.view.classic.ProgressDlg

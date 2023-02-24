@@ -18,8 +18,22 @@
 		<android.plugin.version>4.6.0</android.plugin.version>
 	</properties>
 
+	<!--repositories>
+		<repository>
+			<id>google-repo</id>
+			<url>https://maven.google.com</url>
+		</repository>
+	</repositories-->
+
 	<dependencyManagement>
 		<dependencies>
+			<dependency>
+				<groupId>com.android.support</groupId>
+				<artifactId>support-v4</artifactId>
+				<version>28.0.0</version>
+				<scope>system</scope>
+				<systemPath>${project.basedir}/../lib/android-support-v4.jar</systemPath>
+			</dependency>
 			<dependency>
 				<groupId>com.google.android</groupId>
 				<artifactId>android</artifactId>

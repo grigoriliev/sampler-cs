@@ -22,7 +22,7 @@
 
 package org.jsampler.android.view;
 
-public class AndroidI18n extends net.sf.juife.I18n {
+public class AndroidI18n extends com.grigoriliev.jsampler.juife.I18n {
 	/** Provides the locale-specific data. */
 	public static AndroidI18n i18n = new AndroidI18n();
 	

@@ -22,8 +22,8 @@
 
 package org.jsampler.android.view;
 
-import net.sf.juife.event.GenericEvent;
-import net.sf.juife.event.GenericListener;
+import com.grigoriliev.jsampler.juife.event.GenericEvent;
+import com.grigoriliev.jsampler.juife.event.GenericListener;
 
 import org.jsampler.CC;
 

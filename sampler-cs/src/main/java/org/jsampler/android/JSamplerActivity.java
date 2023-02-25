@@ -24,8 +24,8 @@ package org.jsampler.android;
 
 import java.util.TreeMap;
 
-import net.sf.juife.PDUtils;
-import net.sf.juife.impl.AndroidPDUtilsImpl;
+import com.grigoriliev.jsampler.juife.PDUtils;
+import com.grigoriliev.jsampler.juife.impl.AndroidPDUtilsImpl;
 
 import org.jsampler.CC;
 import org.jsampler.HF;

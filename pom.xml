@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.grigoriliev.jsampler</groupId>
 	<artifactId>sampler-cs-parent</artifactId>
-	<version>0.9.2</version>
+	<version>0.9.3-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>sampler-cs - Parent</name>
 
@@ -16,7 +16,7 @@
 	<properties>
 		<platform.version>4.1.1.4</platform.version>
 		<android.plugin.version>4.6.0</android.plugin.version>
-		<sampler-cs.version>0.9.2</sampler-cs.version>
+		<sampler-cs.version>0.9.3-SNAPSHOT</sampler-cs.version>
 	</properties>
 
 	<!--repositories>

@@ -5,6 +5,6 @@ JS-Default-View: sampler-cs
 
 Name: sampler-cs
 View-Name: Sampler CS
-View-Config: org.jsampler.android.view.classic.ViewConfig
-Main-Frame: org.jsampler.android.view.classic.MainFrame
-Progress-Indicator: org.jsampler.android.view.classic.ProgressDlg
+View-Config: com.grigoriliev.jsampler.samplercs.view.classic.ViewConfig
+Main-Frame: com.grigoriliev.jsampler.samplercs.view.classic.MainFrame
+Progress-Indicator: com.grigoriliev.jsampler.samplercs.view.classic.ProgressDlg

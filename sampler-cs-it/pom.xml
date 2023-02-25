@@ -6,7 +6,7 @@
 	<parent>
 		<groupId>com.grigoriliev.jsampler</groupId>
 		<artifactId>sampler-cs-parent</artifactId>
-		<version>0.9.4-SNAPSHOT</version>
+		<version>0.9.4</version>
 	</parent>
 
 	<groupId>com.grigoriliev.jsampler</groupId>

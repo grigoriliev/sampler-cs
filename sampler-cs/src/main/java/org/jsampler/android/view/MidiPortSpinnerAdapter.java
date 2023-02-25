@@ -28,7 +28,7 @@ import org.jsampler.CC;
 import org.jsampler.MidiDeviceModel;
 import org.jsampler.event.MidiDeviceEvent;
 import org.jsampler.event.MidiDeviceListener;
-import org.linuxsampler.lscp.MidiPort;
+import com.grigoriliev.jsampler.jlscp.MidiPort;
 
 import android.util.Log;
 

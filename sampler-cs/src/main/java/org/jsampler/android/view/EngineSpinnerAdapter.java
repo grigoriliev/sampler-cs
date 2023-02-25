@@ -23,7 +23,7 @@
 package org.jsampler.android.view;
 
 import org.jsampler.CC;
-import org.linuxsampler.lscp.SamplerEngine;
+import com.grigoriliev.jsampler.jlscp.SamplerEngine;
 
 import static org.jsampler.android.view.AndroidI18n.i18n;
 

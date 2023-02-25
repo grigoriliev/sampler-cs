@@ -28,7 +28,7 @@ import java.beans.PropertyChangeListener;
 import org.jsampler.HF;
 import org.jsampler.android.AHF;
 import org.jsampler.android.R;
-import org.linuxsampler.lscp.SamplerChannel;
+import com.grigoriliev.jsampler.jlscp.SamplerChannel;
 
 import android.content.Context;
 import android.view.LayoutInflater;

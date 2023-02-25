@@ -42,9 +42,9 @@ import org.jsampler.android.view.MidiMapSpinnerAdapter;
 import org.jsampler.android.view.MidiPortSpinnerAdapter;
 import org.jsampler.event.SamplerChannelEvent;
 import org.jsampler.event.SamplerChannelListener;
-import org.linuxsampler.lscp.MidiPort;
-import org.linuxsampler.lscp.SamplerChannel;
-import org.linuxsampler.lscp.SamplerEngine;
+import com.grigoriliev.jsampler.jlscp.MidiPort;
+import com.grigoriliev.jsampler.jlscp.SamplerChannel;
+import com.grigoriliev.jsampler.jlscp.SamplerEngine;
 
 import android.content.Context;
 import android.database.DataSetObserver;

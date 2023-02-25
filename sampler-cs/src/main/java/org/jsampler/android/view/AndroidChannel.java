@@ -24,7 +24,7 @@ package org.jsampler.android.view;
 
 import org.jsampler.SamplerChannelModel;
 import org.jsampler.view.JSChannel;
-import org.linuxsampler.lscp.SamplerChannel;
+import com.grigoriliev.jsampler.jlscp.SamplerChannel;
 
 public class AndroidChannel implements JSChannel {
 	private SamplerChannelModel model;
